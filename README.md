@@ -2,7 +2,7 @@
 
 - 🔭  Atualmente estou em processo de transição de carreira.
 - 🌱  Estudando  Desenvolvimento Web - Full Stack.
-- 📫  Contate-me no e-mail: vivianesilvestre@live.com
+- 📫  Contate-me e-mail: vivianesilvestre@live.com
 - 😄  Pronomes: ela/dela
 
 <div>

@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Viviane Silvestre  Alves.
 
 - 🔭  Atualmente estou em processo de transição de carreira.
-- 🌱  Estudando  Desenvolvimento Web - Full Stack.
+- 🌱  Estudando  Desenvolvimento Web - Full Stack e Sistemas para Internet.
 - 📫  Contate-me e-mail: vivianesilvestre@live.com
 - 😄  Pronomes: ela/dela
 
